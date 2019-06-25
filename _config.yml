@@ -18,7 +18,10 @@ email: hello@awestruckperson.ml
 description: >- # this means to ignore newlines until "baseurl:"
   a place to write
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://ragingbelu.ga" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://awestruckperson.ml" # the base hostname & protocol for your site, e.g. http://example.com
+
+permalink: /:title
+
 twitter_username: awestruckperson
 github_username:  exogenesys
 
