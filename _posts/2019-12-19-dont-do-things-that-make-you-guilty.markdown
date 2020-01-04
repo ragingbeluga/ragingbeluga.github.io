@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Plan #0 – Don't Do Things That Make You Guilty"
-date: 2019-12-19 8:05:09 +0530
+date: 2019-12-19 8:20:10 +0530
 categories: Plans
 ---
 
