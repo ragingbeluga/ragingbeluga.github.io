@@ -22,15 +22,14 @@ url: "https://awestruckperson.ml" # the base hostname & protocol for your site, 
 
 permalink: /:title
 
-twitter_username: awestruckperson
-github_username:  exogenesys
+#twitter_username: awestruckperson
+#github_username:  exogenesys
 
 # Build settings
 markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
-
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
